@@ -7,7 +7,9 @@
 ### EDUCATION
 ___
 Bachelor of Science - Computer Science Major
+
 University of Manitoba
+
 Expected date of completion:December 2020
 
 ### SUMMARY OF SKILLS
@@ -38,7 +40,6 @@ OCT 2018 - DEC2018
 Peer advisor
 Sep 2016 - Aug 2017
 International College of Manitoba 
----
 + Helping icm student solving problem such as:Course-choosing, study skills, life.
 + Training new peer advisor and arranged their volunteering schedule.
 + Organizing event with icm advisors and publicizing in social media.
