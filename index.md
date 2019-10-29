@@ -1,6 +1,7 @@
 # Xiangwei zhong                                                                                         
-# <p align="center"> *EDUCATION*
-  <p align="center">  Bachelor of Science - Computer Science Major 
-  <p align="center"> University of Manitoba | Expected: December 2020
+# <p align="center"> 1203-70 plaza dr
+  <p align="center">  Winnipeg,MB R3t 5S1 
+  <p align="center">  (431)388-5972
+  <p align="center">  zhongx1@myumanitoba.ca
    
    
