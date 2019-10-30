@@ -98,6 +98,7 @@ Combined emphasis with **asterisks and _underscores_**.
 + c
 
 2. More contents of Markdown that can help you format your resume, they are:
+
 | Contents      | 
 | ------------- |
 |Links          | 
