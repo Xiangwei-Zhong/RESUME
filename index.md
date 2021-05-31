@@ -13,7 +13,7 @@ Bachelor of Science - Computer Science Major
 
 University of Manitoba
 
-Expected date of completion: December 2020
+Expected date of completion: October 2021(All course finished)
 
 ### SUMMARY OF SKILLS
 ___
